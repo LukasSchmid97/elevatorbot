@@ -14,7 +14,7 @@ class __ElevatorEmojis:
         # !!!
         # Either the moji id must be correct, or the emoji name on discord must be the same as in the class here
         # !!!
-        
+
         # DESCEND [BL]
 
         self.kinetic: CustomEmoji | int = 906180170875031562
